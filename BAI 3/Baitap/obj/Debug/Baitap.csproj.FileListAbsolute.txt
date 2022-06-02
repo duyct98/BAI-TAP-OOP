@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.exe
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.pdb
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.exe
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.pdb

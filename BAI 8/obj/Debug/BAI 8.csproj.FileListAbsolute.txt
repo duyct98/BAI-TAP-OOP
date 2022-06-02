@@ -1,0 +1,16 @@
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\bin\Debug\BAI 8.exe.config
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\bin\Debug\BAI 8.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\bin\Debug\BAI 8.pdb
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\obj\Debug\BAI 8.csproj.AssemblyReference.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\obj\Debug\BAI 8.csproj.SuggestedBindingRedirects.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\obj\Debug\BAI 8.csproj.CoreCompileInputs.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\obj\Debug\BAI 8.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 7\BAI 7\BAI 8\obj\Debug\BAI 8.pdb
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\bin\Debug\BAI 8.exe.config
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\bin\Debug\BAI 8.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\bin\Debug\BAI 8.pdb
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\obj\Debug\BAI 8.csproj.AssemblyReference.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\obj\Debug\BAI 8.csproj.SuggestedBindingRedirects.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\obj\Debug\BAI 8.csproj.CoreCompileInputs.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\obj\Debug\BAI 8.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\BAI 8\obj\Debug\BAI 8.pdb

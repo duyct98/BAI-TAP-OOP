@@ -1,0 +1,16 @@
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\bin\Debug\BAI 6.exe.config
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\bin\Debug\BAI 6.exe
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\bin\Debug\BAI 6.pdb
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.AssemblyReference.cache
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.SuggestedBindingRedirects.cache
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.CoreCompileInputs.cache
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\obj\Debug\BAI 6.exe
+C:\BAI_TAP_OOP\quan li person\BAI 6\BAI 6\obj\Debug\BAI 6.pdb
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\bin\Debug\BAI 6.exe.config
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\bin\Debug\BAI 6.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\bin\Debug\BAI 6.pdb
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.AssemblyReference.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\obj\Debug\BAI 6.csproj.CoreCompileInputs.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\obj\Debug\BAI 6.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 6\BAI 6\obj\Debug\BAI 6.pdb

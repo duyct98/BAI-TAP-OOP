@@ -1,0 +1,8 @@
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\bin\Debug\BAI 7.exe.config
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\bin\Debug\BAI 7.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\bin\Debug\BAI 7.pdb
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\obj\Debug\BAI 7.csproj.AssemblyReference.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\obj\Debug\BAI 7.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\obj\Debug\BAI 7.csproj.CoreCompileInputs.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\obj\Debug\BAI 7.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\BAI 7\BAI 7\BAI 7\obj\Debug\BAI 7.pdb

@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Release\Baitap.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Release\Baitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Release\Baitap.csproj.CoreCompileInputs.cache

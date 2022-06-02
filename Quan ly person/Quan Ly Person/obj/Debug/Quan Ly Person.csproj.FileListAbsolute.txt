@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\bin\Debug\Quan Ly Person.exe.config
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\bin\Debug\Quan Ly Person.exe
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\bin\Debug\Quan Ly Person.pdb
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\obj\Debug\Quan Ly Person.exe
+C:\Users\USER\source\repos\Quan Ly Person\Quan Ly Person\obj\Debug\Quan Ly Person.pdb
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\bin\Debug\Quan Ly Person.exe.config
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\bin\Debug\Quan Ly Person.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\bin\Debug\Quan Ly Person.pdb
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.AssemblyReference.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\obj\Debug\Quan Ly Person.csproj.CoreCompileInputs.cache
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\obj\Debug\Quan Ly Person.exe
+E:\C sharp\BAI TAP OOP\bai-tap-oop\Quan ly person\Quan Ly Person\obj\Debug\Quan Ly Person.pdb

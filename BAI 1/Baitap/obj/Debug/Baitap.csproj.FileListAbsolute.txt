@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.exe
+C:\Users\USER\source\repos\Baitap\Baitap\bin\Debug\Baitap.pdb
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.exe
+C:\Users\USER\source\repos\Baitap\Baitap\obj\Debug\Baitap.pdb
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\bin\Debug\Baitap.exe
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\bin\Debug\Baitap.pdb
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\obj\Debug\Baitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\obj\Debug\Baitap.exe
+C:\Users\Admin\Downloads\Compressed\BAI_TAP_OOP-bai_4\BAI_TAP_OOP-bai_4\Baitap\obj\Debug\Baitap.pdb
