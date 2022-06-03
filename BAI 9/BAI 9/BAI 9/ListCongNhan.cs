@@ -10,7 +10,7 @@ namespace BAI_9
     {
         public static int count = 0;
         public static CongNhan[] list;
-
+    
         public static void setList(int data)
         {
 
@@ -22,9 +22,12 @@ namespace BAI_9
         }
         public static void add(CongNhan data)
         {
+            
+            
             if (count < list.Length)
-            {
-
+            {   
+                
+                
                 list[count] = data;
                 count++;
                 Console.WriteLine("Add successful !!!!");

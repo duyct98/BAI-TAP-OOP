@@ -38,22 +38,19 @@ namespace BAI_9
             switch (luachon)
             {
                 case 1:
-                    // tu nhap
+                    
 
-                    /*Console.Write("Nhap ma CN: ");
-                    int maCN=Convert.ToInt32(Console.ReadLine());
+                    Console.Write("Nhap ma CN: ");
+                    int maCN = Convert.ToInt32(Console.ReadLine());
                     Console.Write("Nhap mHo: ");
                     string mHo = Console.ReadLine();
                     Console.Write("Nhap mTen: ");
                     string mTen = Console.ReadLine();
                     Console.Write("Nhap so san pham : ");
-                    int mSoSP = Convert.ToInt32(Console.ReadLine());*/
+                    int mSoSP = Convert.ToInt32(Console.ReadLine());
+                    List.add(new CongNhan(maCN,mHo,mTen,mSoSP));
 
 
-                    // nhap san -- TEST
-                    List.add(new CongNhan(2, "A", "B", 300));
-                    List.add(new CongNhan(3, "A", "B", 100));
-                    List.add(new CongNhan(4, "A", "B", 900));
 
                     break;
                 case 2:
