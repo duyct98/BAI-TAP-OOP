@@ -1,0 +1,8 @@
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\bin\Debug\BAI 9.exe.config
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\bin\Debug\BAI 9.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\bin\Debug\BAI 9.pdb
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\obj\Debug\BAI 9.csproj.AssemblyReference.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\obj\Debug\BAI 9.csproj.SuggestedBindingRedirects.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\obj\Debug\BAI 9.csproj.CoreCompileInputs.cache
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\obj\Debug\BAI 9.exe
+C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ASD\BAI 9\BAI 9\obj\Debug\BAI 9.pdb
