@@ -10,14 +10,10 @@ namespace BAI_11
     {
         static void Main(string[] args)
         {
-            HocVien hv1 = new HocVien("Nguyen Van a",1998,new Diem(1,2,3,4,5));
-            HocVien hv2 = new HocVien("Nguyen Van b", 1999, new Diem(5, 5, 5, 5, 5));
-            HocVien hv3 = new HocVien("Nguyen Van c", 2000, new Diem(7, 7, 7, 9.5, 5));
-            HocVien hv4 = new HocVien("Nguyen Van c", 2000, new Diem(7, 7, 7, 7, 5));
-            ListHV.list.Add(hv1);
-            ListHV.list.Add(hv2);
-            ListHV.list.Add(hv3);
-            ListHV.list.Add(hv4);
+            ListHV.list.Add(new HocVien("Nguyen Van a", 1998, new Diem(1, 2, 3, 4, 5)));
+            ListHV.list.Add(new HocVien("Nguyen Van b", 1999, new Diem(5, 5, 5, 5, 5)));
+            ListHV.list.Add(new HocVien("Nguyen Van c", 2000, new Diem(7, 7, 7, 9.5, 5)));
+            ListHV.list.Add(new HocVien("Nguyen Van c", 2000, new Diem(7, 7, 7, 7, 5)));
 
             ListHV.info();
             Console.WriteLine("\nCo {0} hoc vien du dieu kien lam luan van.", ListHV.luanVan());
