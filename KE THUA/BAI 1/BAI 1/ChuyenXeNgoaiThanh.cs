@@ -12,10 +12,6 @@ namespace BAI_1
 
         public int SoNgayDiDuoc { get => soNgayDiDuoc; set => soNgayDiDuoc = value; }
 
-        public string info()
-        {
-            return string.Format(" {0,-20}{1,-20}{2,-10}{3,-10}{4,-10:0,0 VND}", MaSoChuyen, HoTen, SoTuyen, SoNgayDiDuoc, DoanhThu);
-        }
         public ChuyenXeNgoaiThanh(string msc,string ht,int sx,int soNgayDiDuoc, double dt)
         {
             SoNgayDiDuoc = soNgayDiDuoc;
@@ -24,9 +20,17 @@ namespace BAI_1
             SoTuyen = sx;
             SoNgayDiDuoc = soNgayDiDuoc;
             DoanhThu = dt;
+            
+            
         }
-        
-          
+
+
+        public override string info()
+        {
+            return string.Format(" {0,-20}{1,-20}{2,-10}{3,-10}{4,-10:0,0 VND}", MaSoChuyen, HoTen, SoTuyen, SoNgayDiDuoc, DoanhThu);
+
+        }
+
         
     }
 }

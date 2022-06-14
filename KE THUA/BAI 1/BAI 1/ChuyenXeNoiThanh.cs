@@ -10,6 +10,12 @@ namespace BAI_1
     {
         private int soKM;
         public int SoKM { get => soKM; set => soKM = value; }
+
+        
+
+
+
+        
         public ChuyenXeNoiThanh(string msc, string ht, int sx, int skm, double dt)
         {            
             MaSoChuyen = msc;
@@ -17,13 +23,17 @@ namespace BAI_1
             SoTuyen = sx;            
             DoanhThu = dt;
             SoKM = skm;
-
+            
         }
 
-        public string info()
+        
+
+        
+
+        public override string info()
         {
-            return string.Format(" {0,-20}{1,-20}{2,-10}{3,-10:0,0 Km}{4,-10:0,0 VND}", MaSoChuyen, HoTen, SoTuyen, SoKM, DoanhThu);
-        }
+            return string.Format(" {0,-20}{1,-20}{2,-10}{3,-10:0,0}{4,-10:0,0 VND}", MaSoChuyen, HoTen, SoTuyen, SoKM, DoanhThu);
 
+        }
     }
 }

@@ -6,3 +6,11 @@ C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ke_thua\BAI 1\BAI 1\obj\Debug\BAI 1
 C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ke_thua\BAI 1\BAI 1\obj\Debug\BAI 1.csproj.CoreCompileInputs.cache
 C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ke_thua\BAI 1\BAI 1\obj\Debug\BAI 1.exe
 C:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\ke_thua\BAI 1\BAI 1\obj\Debug\BAI 1.pdb
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\bin\Debug\BAI 1.exe.config
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\bin\Debug\BAI 1.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\bin\Debug\BAI 1.pdb
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\obj\Debug\BAI 1.csproj.AssemblyReference.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\obj\Debug\BAI 1.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\obj\Debug\BAI 1.csproj.CoreCompileInputs.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\obj\Debug\BAI 1.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\BAI 1\BAI 1\obj\Debug\BAI 1.pdb
