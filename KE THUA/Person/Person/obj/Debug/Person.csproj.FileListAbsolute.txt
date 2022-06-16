@@ -1,0 +1,8 @@
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\bin\Debug\Person.exe.config
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\bin\Debug\Person.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\bin\Debug\Person.pdb
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\obj\Debug\Person.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\Person\Person\obj\Debug\Person.pdb

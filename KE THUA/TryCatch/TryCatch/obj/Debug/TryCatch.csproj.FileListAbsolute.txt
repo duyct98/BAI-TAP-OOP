@@ -1,0 +1,8 @@
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

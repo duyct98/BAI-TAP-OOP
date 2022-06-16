@@ -1,0 +1,8 @@
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\bin\Debug\SoSanh.exe.config
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\bin\Debug\SoSanh.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\bin\Debug\SoSanh.pdb
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\obj\Debug\SoSanh.csproj.AssemblyReference.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\obj\Debug\SoSanh.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\obj\Debug\SoSanh.csproj.CoreCompileInputs.cache
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\obj\Debug\SoSanh.exe
+D:\BAI TAP\bai-tap-oop-main\bai-tap-oop-main\KE THUA\SoSanh\SoSanh\obj\Debug\SoSanh.pdb
